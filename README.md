@@ -1,3 +1,3 @@
-# BinaryTree-and-Node-class
-Binary Tree has standard functions
-Remove is unfinsied
+# BinaryTree
+
+Node array implementation of Binary Tree for integer data
