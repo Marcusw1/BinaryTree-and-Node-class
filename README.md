@@ -1,3 +1,3 @@
 # BinaryTree
 
-Node array implementation of Binary Tree for integer data
+Array node implementation of Binary Tree for integer data
